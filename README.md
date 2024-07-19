@@ -15,5 +15,6 @@ The main function orchestrates the entire packet sniffing process. It begins by 
 This script serves several purposes within network management and learning environments. Primarily, it acts as a network monitoring tool, providing real-time insights into network traffic patterns and content. It also serves as an educational resource, allowing users to gain practical experience in network packet analysis and protocol interpretation. Furthermore, the script supports network troubleshooting efforts by identifying and examining network anomalies or irregularities in traffic flow.
 
 **Outputs of the Code**
-•**  Ethernet Frame Details:** Includes MAC addresses of the packet's source and destination, along with the protocol type.
-•**  IPv4 Packet Details:** Provides information on the packet's version, header length, TTL value, protocol type, and source/target IP addresses. These outputs are essential for understanding how data is structured and transmitted across networks, aiding in both diagnostic and educational contexts.
+•Ethernet Frame Details: Includes MAC addresses of the packet's source and destination, along with the protocol type.
+
+•IPv4 Packet Details: Provides information on the packet's version, header length, TTL value, protocol type, and source/target IP addresses. These outputs are essential for understanding how data is structured and transmitted across networks, aiding in both diagnostic and educational contexts.
